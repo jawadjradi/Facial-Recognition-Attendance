@@ -1,0 +1,3 @@
+opencv-python==4.x.x
+numpy==x.x.x
+tkinter==x.x.x
